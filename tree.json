@@ -1,6 +1,11 @@
 {
   "families": [
     {
+      "childRefs": [
+        {
+          "ref": "I3*d7fd0e09-f431-4fa3-a34d-1d8df77115e2"
+        }
+      ],
       "husbandRefs": [
         {
           "ref": "I1*b1e5b48c-66d6-454f-b9a9-3c2addf5f9a1"
@@ -75,6 +80,25 @@
         {
           "tag": "SEX",
           "value": "F"
+        }
+      ]
+    },
+    {
+      "famc": [
+        {
+          "ref": "F1*1736552f-202c-4f89-8f8c-2bc5d9a9d287"
+        }
+      ],
+      "id": "I3*d7fd0e09-f431-4fa3-a34d-1d8df77115e2",
+      "names": [
+        {
+          "value": "Ccc /Aa/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
         }
       ]
     }
