@@ -1,0 +1,82 @@
+{
+  "families": [
+    {
+      "husbandRefs": [
+        {
+          "ref": "I1*b1e5b48c-66d6-454f-b9a9-3c2addf5f9a1"
+        }
+      ],
+      "id": "F1*1736552f-202c-4f89-8f8c-2bc5d9a9d287",
+      "wifeRefs": [
+        {
+          "ref": "I2*43109785-79fd-4d92-a70d-3bb5a53281da"
+        }
+      ]
+    }
+  ],
+  "head": {
+    "charset": {
+      "value": "UTF-8"
+    },
+    "date": {
+      "time": "22:18:26",
+      "value": "25 MAR 2025"
+    },
+    "file": "1.json",
+    "gedc": {
+      "form": "LINEAGE-LINKED",
+      "vers": "5.5.1"
+    },
+    "lang": "English",
+    "sour": {
+      "name": "Tarombo",
+      "value": "TAROMBO",
+      "vers": "0.5.6 (259e8fa)"
+    }
+  },
+  "people": [
+    {
+      "fams": [
+        {
+          "ref": "F1*1736552f-202c-4f89-8f8c-2bc5d9a9d287"
+        }
+      ],
+      "id": "I1*b1e5b48c-66d6-454f-b9a9-3c2addf5f9a1",
+      "names": [
+        {
+          "value": "Aa /Aa/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "M"
+        },
+        {
+          "date": "",
+          "place": "",
+          "tag": "BIRT"
+        }
+      ]
+    },
+    {
+      "fams": [
+        {
+          "ref": "F1*1736552f-202c-4f89-8f8c-2bc5d9a9d287"
+        }
+      ],
+      "id": "I2*43109785-79fd-4d92-a70d-3bb5a53281da",
+      "names": [
+        {
+          "value": "Bb /Bb/"
+        }
+      ],
+      "eventsFacts": [
+        {
+          "tag": "SEX",
+          "value": "F"
+        }
+      ]
+    }
+  ]
+}
